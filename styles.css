@@ -11,7 +11,7 @@ body {
     overflow: hidden;
     width: 424px; /* Initial width */
     height: 600px; /* Initial height */
-    animation: grow 100s linear forwards; /* 432000s = 5 days */
+    animation: grow 259200s linear forwards; /* 259200s = 3 days */
     display: flex;
     justify-content: center;
     align-items: flex-end;
