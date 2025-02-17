@@ -9,8 +9,8 @@ body {
 
 .tree-container {
     overflow: hidden;
-    width: 100px; /* Initial width */
-    height: 400px; /* Initial height */
+    width: 424px; /* Initial width */
+    height: 600px; /* Initial height */
     animation: grow 100s linear forwards; /* 432000s = 5 days */
     display: flex;
     justify-content: center;
@@ -19,7 +19,7 @@ body {
 
 .coconut-tree {
     width: 100%;
-    height: auto;
+    height: 100%;
     transform-origin: bottom center;
     transform: scaleY(0);
     animation: scaleUp 100s linear forwards;
