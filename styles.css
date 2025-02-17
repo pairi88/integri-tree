@@ -10,7 +10,7 @@ body {
 .tree-container {
     overflow: hidden;
     width: 100px; /* Initial width */
-    height: 600px; /* Initial height */
+    height: 400px; /* Initial height */
     animation: grow 100s linear forwards; /* 432000s = 5 days */
     display: flex;
     justify-content: center;
